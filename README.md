@@ -5,9 +5,9 @@ Overview of my Georgia Tech OMSCS Degree Material
 Science degree at Georgia Tech. This is an overview of the courses and projects
 I completed during that time to use for reference.</p>
 
-<h1>Courses</h1>
+<h1>Courses:</h1>
 
-<h2>CS 6200 - Intro to Operating Systems</h2>
-<h3>Project 1: Socket Programming and Multithreading
-<p>Create a program in C to estable a web socket and send strings using
-multithreading.</p>
+<h3>CS 6200 - Intro to Operating Systems</h3>
+- Project 1: Socket Programming and Multithreading
+- Project 2: Programming with Shared Memory & IPC
+- Project 3: Programming with gRPC
