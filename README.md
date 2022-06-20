@@ -8,6 +8,6 @@ I completed during that time to use for reference.</p>
 <h1>Courses:</h1>
 
 <h3>CS 6200 - Intro to Operating Systems</h3>
-- Project 1: Socket Programming and Multithreading
-- Project 2: Programming with Shared Memory & IPC
-- Project 3: Programming with gRPC
+<p>- Project 1: Socket Programming and Multithreading</p>
+<p>- Project 2: Programming with Shared Memory & IPC</p>
+<p>- Project 3: Programming with gRPC</p>
